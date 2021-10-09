@@ -1,6 +1,8 @@
 ## 난생처음 인공지능 입문 
 - 세종대학교 지능기전공학부 1학년 학생들을 대상으로 하는 수업
 - 인공지능의 개념을 이해하고, 통계적 머신러닝을 맛본 후, No-CodeAI를 통해 세종AI챌린지에 도전한다.
+  - No-CodeAI툴 : 오렌지3
+  - 인공신경망 이론은 본 강의범주에 포함되지 
 
 ## 강의영상 플레이리스트
 - https://www.youtube.com/playlist?list=PL1xKqHsVFgvlvky5GoI6hWHFJYgNotPfN
